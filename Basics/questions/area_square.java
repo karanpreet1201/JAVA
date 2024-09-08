@@ -1,4 +1,4 @@
-package questions;
+
 import java.util.*;
 
 public class area_square {
@@ -9,9 +9,7 @@ public class area_square {
 
         int area = side * side;
         System.out.println(area);
-
-
-
+        
         sc.close();
     }
 }

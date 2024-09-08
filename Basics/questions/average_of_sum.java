@@ -1,4 +1,4 @@
-package questions;
+
 import java.util.*;
 
 public class average_of_sum {
